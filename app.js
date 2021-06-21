@@ -16,7 +16,7 @@ for (let i = 0; i < 4; i++) {
 var somd = 1;
 const readlineSync = require('readline-sync');
 
-console.log(mas);
+//console.log(mas);
 do{
 var snum = [0, 0, 0, 0];
 var some = [];
